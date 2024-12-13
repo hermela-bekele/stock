@@ -1,2 +1,3 @@
 venv/
 notebooks/raw_analyst_ratings.csv
+notebooks/news_with_sentiment.csv
