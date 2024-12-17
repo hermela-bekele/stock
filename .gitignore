@@ -1,3 +1,10 @@
 venv/
 notebooks/raw_analyst_ratings.csv
 notebooks/news_with_sentiment.csv
+notebooks/AAPL_historical_data.csv
+notebooks/AMZN_historical_data.csv
+notebooks/META_historical_data.csv
+notebooks/GOOG_historical_data.csv
+notebooks/MSFT_historical_data.csv
+notebooks/NVDA_historical_data.csv
+notebooks/TSLA_historical_data.csv
